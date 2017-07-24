@@ -1,6 +1,6 @@
 # Ionic 3 Chat
 
-## Episode 6
+## Episode 7
 
 ### Adding Friends
 
